@@ -4,7 +4,6 @@ Coding the Future<br>Architecting Innovation
 ---
 [![](https://visitcount.itsvg.in/api?id=thegr8binil&icon=5&color=1)](https://visitcount.itsvg.in)
 
-![snake gif](https://github.com/thegr8binil/thegr8binil/blob/output/github-contribution-grid-snake.gif)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=thegr8binil&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=thegr8binil&theme=dark&hide_border=true)<br/>
