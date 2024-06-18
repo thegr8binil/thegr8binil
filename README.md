@@ -7,7 +7,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=thegr8binil&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=thegr8binil&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-### 🔝 Top Contributed Repo
+# 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=thegr8binil&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 
