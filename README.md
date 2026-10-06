@@ -1,18 +1,153 @@
-# 💫 Coding the Future<br>Architecting Innovation
+<!-- ═══════════════════════════ HEADER ═══════════════════════════ -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Hey,%20I'm%20Binil%20👋&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Project%20Manager%20•%20Designer%20•%20Engineer&descAlignY=58&descSize=18" width="100%" alt="header"/>
+</p>
 
-[![](https://visitcount.itsvg.in/api?id=thegr8binil&icon=5&color=1)](https://visitcount.itsvg.in)
+<p align="center">
+  <a href="https://www.thegr8binil.me">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=600&lines=Coding+the+Future+%E2%9C%A8;Architecting+Innovation+%F0%9F%9A%80;From+discovery+%E2%86%92+design+%E2%86%92+shipped+release;0%E2%86%921+Product+Builder;Open+to+freelance+%26+full-time+roles+%F0%9F%8C%8D" alt="Typing SVG"/>
+  </a>
+</p>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=thegr8binil&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=thegr8binil&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=thegr8binil&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+  <a href="https://www.thegr8binil.me"><img src="https://img.shields.io/badge/Portfolio-thegr8binil.me-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://twitter.com/thegr8binil"><img src="https://img.shields.io/badge/X-@thegr8binil-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
+  <a href="https://github.com/thegr8binil"><img src="https://img.shields.io/github/followers/thegr8binil?label=Followers&style=for-the-badge&logo=github&color=24243e" alt="Followers"/></a>
+  <img src="https://komarev.com/ghpvc/?username=thegr8binil&style=for-the-badge&color=302b63&label=Profile+Views" alt="Profile views"/>
+</p>
 
-# 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=thegr8binil&limit=5&theme=dark&combine_all_yearly_contributions=true)
+---
 
+## 🧑‍🚀 About Me
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=flat&logo=github&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) ![Green Sock](https://img.shields.io/badge/green%20sock-88CE02?style=flat&logo=greensock&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat&logo=socket.io&badgeColor=010101) ![Badge Name](https://img.shields.io/badge/tRPC-%232596BE.svg?style=flat&logo=tRPC&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=flat&logo=three.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat&logo=Prisma&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=flat&logo=Adobe%20Lightroom&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=flat&logo=framer&logoColor=blue) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white) ![OpenSea](https://img.shields.io/badge/OpenSea-%232081E2.svg?style=flat&logo=opensea&logoColor=white) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=flat&logo=tor-project&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+<img align="right" width="380" src="https://github-readme-stats.vercel.app/api?username=thegr8binil&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=00000000" alt="GitHub stats"/>
 
+```ts
+const binil = {
+  role:      "AI Project Manager",
+  superpower:"Design + Engineering in one person",
+  builds:    "0 → 1 products, end to end",
+  workflow:  ["Discovery", "Strategy", "UI/UX", "Code", "Ship 🚀"],
+  aiTools:   ["Claude Code", "Figma Make"],
+  stack:     ["React", "Next.js", "TypeScript", "Node.js"],
+  basedIn:   "India 🇮🇳 — working worldwide 🌍",
+  status:    "Open to freelance & full-time roles",
+};
+```
 
+<br clear="right"/>
 
+---
+
+## 🛠️ Tech Stack
+
+<details open>
+<summary><b>🎨 Frontend & Design</b></summary>
+<br/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,vite,threejs,figma,ps,lr&perline=12" alt="frontend"/>
+</p>
+<sub>+ Framer · GSAP · React Router</sub>
+</details>
+
+<details>
+<summary><b>⚙️ Backend & Databases</b></summary>
+<br/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,prisma,mongodb,mysql,postgres,supabase,firebase&perline=10" alt="backend"/>
+</p>
+<sub>+ tRPC · Socket.io</sub>
+</details>
+
+<details>
+<summary><b>☁️ Cloud & DevOps</b></summary>
+<br/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,gcp,vercel,netlify,git,github,githubactions,npm,postman&perline=10" alt="cloud"/>
+</p>
+</details>
+
+<details>
+<summary><b>🧠 Languages, Data & AI</b></summary>
+<br/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=py,c,cpp,java,sklearn,notion&perline=10" alt="languages"/>
+</p>
+<sub>+ Pandas · NumPy · Claude Code · Figma Make</sub>
+</details>
+
+> 💡 *Click each section to expand.*
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="165" src="https://streak-stats.demolab.com?user=thegr8binil&theme=tokyonight&hide_border=true&background=00000000" alt="streak"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thegr8binil&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs"/>
+</p>
+
+<details>
+<summary><b>📈 Contribution Activity Graph</b></summary>
+<br/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=thegr8binil&theme=tokyo-night&hide_border=true&area=true&bg_color=00000000" alt="activity graph"/>
+</details>
+
+<details>
+<summary><b>🏆 GitHub Trophies</b></summary>
+<br/>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=thegr8binil&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" alt="trophies"/>
+</p>
+</details>
+
+<details>
+<summary><b>🔝 Top Contributed Repos</b></summary>
+<br/>
+<img width="100%" src="https://github-contributor-stats.vercel.app/api?username=thegr8binil&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="top repos"/>
+</details>
+
+---
+
+## 🔄 How I Ship
+
+```mermaid
+flowchart LR
+    A[🔍 Discovery] --> B[🗺️ Strategy & Roadmap]
+    B --> C[🎨 UI/UX in Figma]
+    C --> D[⚡ AI-assisted Build]
+    D --> E[🧪 Test & Iterate]
+    E --> F[🚀 Ship]
+    F -.feedback.-> A
+```
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thegr8binil/thegr8binil/output/github-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thegr8binil/thegr8binil/output/github-snake.svg"/>
+    <img alt="contribution snake" src="https://raw.githubusercontent.com/thegr8binil/thegr8binil/output/github-snake.svg"/>
+  </picture>
+</p>
+
+---
+
+## 🤝 Let's Build Something
+
+<p align="center">
+  <b>Have a 0→1 idea, a product that needs shipping, or a role to fill?</b><br/><br/>
+  <a href="https://www.thegr8binil.me">
+    <img src="https://img.shields.io/badge/✨_Visit_My_Portfolio-8B5CF6?style=for-the-badge" alt="portfolio"/>
+  </a>
+  <a href="https://twitter.com/thegr8binil">
+    <img src="https://img.shields.io/badge/💬_DM_Me_on_X-000000?style=for-the-badge" alt="X"/>
+  </a>
+</p>
+
+<!-- ═══════════════════════════ FOOTER ═══════════════════════════ -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%" alt="footer"/>
+</p>
